@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "OathOfTheHoratii.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "unit" : "centimeters",
+    "width" : 18.460000000000001
+  }
+}

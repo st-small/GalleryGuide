@@ -1,0 +1,38 @@
+{
+	"CoronationOfNapoleon": {
+		"title": "The Coronation of Napoleon",
+		"artist": "Jacques-Louis David",
+		"year": "1807",
+		"url": "https://en.wikipedia.org/wiki/The_Coronation_of_Napoleon"
+	},
+	"JohnTheBaptist": {
+		"title": "St. John the Baptist",
+		"artist": "Leonardo da Vinci",
+		"year": "1516",
+		"url": "https://en.wikipedia.org/wiki/St._John_the_Baptist_(Leonardo)"
+	},
+	"LouisXIV": {
+		"title": "Portrait of Louis XIV",
+		"artist": "Hyacinthe Rigaud",
+		"year": "1701",
+		"url": "https://en.wikipedia.org/wiki/Portrait_of_Louis_XIV"
+	},
+	"MonaLisa": {
+		"title": "Mona Lisa",
+		"artist": "Leonardo da Vinci",
+		"year": "1517",
+		"url": "https://en.wikipedia.org/wiki/Mona_Lisa"
+	},
+	"OathOfTheHoratii": {
+		"title": "The Oath of the Horatii",
+		"artist": "Jacques-Louis David",
+		"year": "1784",
+		"url": "https://en.wikipedia.org/wiki/Oath_of_the_Horatii"
+	},
+	"RaftOfTheMedusa": {
+		"title": "The Raft of the Medusa",
+		"artist": "Théodore Géricault",
+		"year": "1819",
+		"url": "https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa"
+	}
+}

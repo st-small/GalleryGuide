@@ -1,0 +1,26 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "CoronationOfNapoleon.arreferenceimage"
+    },
+    {
+      "filename" : "JohnTheBaptist.arreferenceimage"
+    },
+    {
+      "filename" : "LouisXIV.arreferenceimage"
+    },
+    {
+      "filename" : "MonaLisa.arreferenceimage"
+    },
+    {
+      "filename" : "OathOfTheHoratii.arreferenceimage"
+    },
+    {
+      "filename" : "RaftOfTheMedusa.arreferenceimage"
+    }
+  ]
+}
